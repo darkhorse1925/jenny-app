@@ -1,0 +1,109 @@
+[
+	{
+		"image": "./images/fish-1.jpeg",
+		"name": "Angel",
+		"price": 80,
+		"tag": ["tropical"],
+		"desc": "This is not edible",
+		"inStock": "true"
+	},
+	{
+		"id": 2,
+		"image": "./images/fish-2.jpeg",
+		"name": "parrot",
+		"price": 400,
+		"tag": ["tropical"],
+		"desc": "This is not edible",
+		"inStock": "true"
+	},
+	{
+		"id": 3,
+		"image": "./images/fish-3.jpeg",
+		"name": "Beta",
+		"price": 80,
+		"tag": ["tropical"],
+		"desc": "This is not edible",
+		"inStock": "true"
+	},
+	{
+		"id": 4,
+		"image": "./images/fish-4.jpeg",
+		"name": "Telescope",
+		"price": 100,
+		"tag": ["tropical"],
+		"desc": "This is not edible",
+		"inStock": "true"
+	},
+	{
+		"id": 5,
+		"image": "./images/fish-5.jpeg",
+		"name": "Discus",
+		"price": 1000,
+		"tag": ["tropical"],
+		"desc": "This is not edible",
+		"inStock": "true"
+	},
+	{
+		"id": 6,
+		"image": "./images/fish-6.jpeg",
+		"name": "Neon Tetra",
+		"price": 10,
+		"tag": ["tropical"],
+		"desc": "This is not edible",
+		"inStock": "true"
+	},
+	{
+		"id": 7,
+		"image": "./images/fish-7.jpeg",
+		"name": "Fantail Beta",
+		"price": 100,
+		"tag": ["tropical"],
+		"desc": "This is not edible",
+		"inStock": "true"
+	},
+	{
+		"id": 8,
+		"image": "./images/fish-8.jpeg",
+		"name": "Tetra",
+		"price": 20,
+		"tag": ["tropical"],
+		"desc": "This is not edible",
+		"inStock": "true"
+	},
+	{
+		"id": 9,
+		"image": "./images/fish-9.jpeg",
+		"name": "Piranha",
+		"price": 600,
+		"tag": ["tropical"],
+		"desc": "This is not edible",
+		"inStock": "true"
+	},
+	{
+		"id": 10,
+		"image": "./images/fish-10.jpeg",
+		"name": "Oscar",
+		"price": 200,
+		"tag": ["tropical"],
+		"desc": "This is not edible",
+		"inStock": "true"
+	},
+	{
+		"id": 11,
+		"image": "./images/fish-11.jpeg",
+		"name": "Molly",
+		"price": 10,
+		"tag": ["tropical"],
+		"desc": "This is not edible",
+		"inStock": "true"
+	},
+	{
+		"id": 12,
+		"image": "./images/fish-12.jpeg",
+		"name": "White Angel",
+		"price": 30,
+		"tag": ["tropical"],
+		"desc": "This is not edible",
+		"inStock": "true"
+	}
+]

@@ -1,0 +1,162 @@
+[
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/fish-1.jpeg",
+		"title": "Angel",
+		"price": 80,
+		"tag": ["tropical"],
+		"desc": "Pterophyllum is a small genus of freshwater fish from the family Cichlidae known to most aquarists as angelfish. All Pterophyllum species originate from the Amazon Basin, Orinoco Basin and various rivers in the Guiana Shield in tropical South America.",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/fish-10.jpeg",
+		"title": "Oscar",
+		"price": 200,
+		"tag": ["freshwater"],
+		"desc": "The oscar is a species of fish from the cichlid family known under a variety of common names, including tiger oscar, velvet cichlid, and marble cichlid. In tropical South America, where the species naturally resides, A. ocellatus specimens are often found for sale as a food fish in the local markets",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/fish-11.jpeg",
+		"title": "Common Molly",
+		"price": 10,
+		"tag": ["tropical","cheap"],
+		"desc": "Poecilia sphenops is a species of fish, of the genus Poecilia, known under the common name molly; to distinguish it from its congeners, it is sometimes called short-finned molly or common molly. They inhabit fresh water streams and coastal brackish and marine waters from Mexico to Colombia.",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/fish-2.jpeg",
+		"title": "Flame Angel",
+		"price": 650,
+		"tag": ["saltwater", "cheap"],
+		"desc": "The flame angelfish is a marine angelfish of the family Pomacanthidae found in tropical waters of the Pacific Ocean. Other common names include flame angel, flaming angelfish and Japanese pygmy angelfish.",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/turtle.jpg",
+		"title": "Red Eared Slider",
+		"price": 750,
+		"tag": ["river"],
+		"desc": "The red-eared slider or red-eared terrapin is a subspecies of the pond slider, a semiaquatic turtle belonging to the family Emydidae. It is the most popular pet turtle in the United States, is also popular as a pet across the rest of the world, and is the most invasive turtle.",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/fish-4.jpeg",
+		"title": "Telescope",
+		"price": 100,
+		"tag": ["freshwater"],
+		"desc": "The telescope eye is a goldfish characterised by its protruding eyes. It was first developed in the early 1700s in China, where the trait was referred to as dragon eyes",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/fish-5.jpeg",
+		"title": "Discus",
+		"price": 1000,
+		"tag": ["river"],
+		"desc": "Symphysodon, colloquially known as discus, is a genus of cichlids native to the Amazon river basin in South America. Due to their distinctive shape, behavior, and bright colors and patterns, discus are popular as freshwater aquarium fish, and their aquaculture in several countries in Asia is a major industry.",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/fish-6.jpeg",
+		"title": "Neon Tetra",
+		"price": 25,
+		"tag": ["tropical", "cheap"],
+		"desc": "The neon tetra is a Freshwater fish of the characin family of order Characiformes. The type species of its genus, it is native to blackwater and clearwater streams in the Amazon basin of South America.",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/fish-7.jpeg",
+		"title": "Siamese Fighter",
+		"price": 100,
+		"tag": ["tropical"],
+		"desc": "The Siamese fighting fish, commonly known as the betta, is a freshwater fish native to Southeast Asia, namely Cambodia, Laos, Myanmar, Malaysia, Indonesia, Thailand, and Vietnam.",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/tiger.jpg",
+		"title": "Tiger Barb",
+		"price": 40,
+		"tag": ["tropical"],
+		"desc": "The tiger barb or Sumatra barb, is a species of tropical cyprinid fish. The natural geographic range reportedly extends throughout the Malay Peninsula, Sumatra and Borneo in Indonesia, with unsubstantiated sightings reported in Cambodia.",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/fish-9.jpeg",
+		"title": "Piranha",
+		"price": 600,
+		"tag": ["river"],
+		"desc": "A piranha or piraña, a member of family Serrasalmidae, or a member of the subfamily Serrasalminae within the tetra family, Characidae in order Characiformes. They are freshwater fish that inhabit South American rivers, floodplains, lakes and reservoirs.",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/clownfish.jpg",
+		"title": "Clown Fish",
+		"price": 450,
+		"tag": ["saltwater"],
+		"desc": "Clownfish or anemonefish are fishes from the subfamily Amphiprioninae in the family Pomacentridae. Thirty species of clownfish are recognized: one in the genus Premnas, while the remaining are in the genus Amphiprion. In the wild, they all form symbiotic mutualisms with sea anemones.",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/fish-13.jpeg",
+		"title": "Rainbow Shark",
+		"price": 100,
+		"tag": ["freshwater"],
+		"desc": "The rainbow shark is a species of Southeast Asian freshwater fish from the family Cyprinidae. It is also known as the ruby shark, red-fin shark, red-finned shark, rainbow sharkminnow, green fringelip labeo, whitefin shark and whitetail sharkminnow. It is a popular, semi-aggressive aquarium fish.",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/fish-14.jpeg",
+		"title": "Green Swordtail",
+		"price": 15,
+		"tag": ["tropical"],
+		"desc": "The green swordtail is a species of freshwater/brackish fish in family Poeciliidae of order Cyprinodontiformes. A live-bearer, it is closely related to the southern platyfish or 'platy' and can crossbreed with it.",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/fish-15.jpeg",
+		"title": "Gourami",
+		"price": 70,
+		"tag": ["tropical"],
+		"desc": "Gouramis, or gouramies, are a group of freshwater anabantiform fishes that comprise the family Osphronemidae. The fish are native to Asia—from the Indian Subcontinent to Southeast Asia and northeasterly towards Korea",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/fish-16.jpeg",
+		"title": "Guppy",
+		"price": 10,
+		"tag": ["tropical"],
+		"desc": "The guppy, also known as millionfish and rainbow fish, is one of the world's most widely distributed tropical fish and one of the most popular freshwater aquarium fish species. It is a member of the family Poeciliidae and, like almost all American members of the family, is live-bearing.",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/fish-17.jpeg",
+		"title": "Flower Horn",
+		"price": 1500,
+		"tag": ["freshwater"],
+		"desc": "Flowerhorn cichlids are ornamental aquarium fish noted for their vivid colors and the distinctively shaped heads for which they are named.",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/puffer.jpg",
+		"title": "Puffer",
+		"price": 1200,
+		"tag": ["saltwater"],
+		"desc": "Tetraodontidae is a family of primarily marine and estuarine fish of the order Tetraodontiformes. The family includes many familiar species variously called pufferfish, puffers, balloonfish, blowfish, blowies, bubblefish, globefish, swellfish, toadfish, toadies, toadle, honey toads, sugar toads, and sea squab.",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/koi.jpg",
+		"title": "Koi",
+		"price": 100,
+		"tag": ["freshwater","cheap"],
+		"desc": "Koi or more specifically nishikigoi, are colored varieties of the Amur carp that are kept for decorative purposes in outdoor koi ponds or water gardens. Koi is an informal name for the colored variants of C. rubrofuscus kept for ornamental purposes. ",
+		"inStock": true
+	},
+	{
+		"img": "https://jennys-aquarium-images.s3.ap-south-1.amazonaws.com/surgeonfish.jpg",
+		"title": "Surgeon Fish",
+		"price": 900,
+		"tag": ["seawater"],
+		"desc": "Paracanthurus hepatus is a species of Indo-Pacific surgeonfish. A popular fish in marine aquaria, it is the only member of the genus Paracanthurus.",
+		"inStock": true
+	}
+]
