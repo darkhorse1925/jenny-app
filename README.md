@@ -7,7 +7,7 @@ Check the working site at [jennysaquarium.netlify.app](https://jennysaquarium.ne
 ![Products Page](https://github.com/darkhorse1925/jenny-app/blob/master/demo/products_demo.png)
 ![product Page](https://github.com/darkhorse1925/jenny-app/blob/master/demo/product_demo.png)
 ![cart Page](https://github.com/darkhorse1925/jenny-app/blob/master/demo/card_demo.png)
-![login Page](https://github.com/darkhorse1925/jenny-app/blob/master/demo/login_demo.png)
+![login Page](https://github.com/darkhorse1925/jenny-app/blob/master/demo/login.png)
 
 **This website is solely made for demonstrative purpose and fun.**
 
