@@ -3,6 +3,9 @@ For better experience use desktop/laptop, since the css was not made responsive 
 
 Check the working site at [jennysaquarium.netlify.app](https://jennysaquarium.netlify.app)
 
+![Landing Page](https://github.com/darkhorse1925/jenny-app/blob/master/demo/Landing_demo.png)
+![Products Page](https://github.com/darkhorse1925/jenny-app/blob/master/demo/products_demo.png)
+
 **This website is solely made for demonstrative purpose and fun.**
 
 There is a more detailed **README/About** page inside the website, click that for more info.
